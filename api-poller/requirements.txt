@@ -1,0 +1,4 @@
+# This is where required Python libraries are listed
+kelvin-app[data]
+pytest
+requests
