@@ -1,9 +1,9 @@
 ## Weather custom datamodel application
 
 This example will show how to:
-    - Inject custom datamodel data 
+    - Inject custom datamodel data
 
-Check [Kelvin documentation](https://docs.kelvin.com/latest/tutorials/kelvin_apps/inject_and_extract_data/#inject-custom-datamodels-data-example) for more details.
+Check [Kelvin documentation](https://docs.kelvininc.com/latest/documentation/sdk/package_and_emulate_apps/inject_and_extract_data/?h=+custom+#inject-custom-datamodel-data-example) for more details.
 
 
 #### Build and emulate
